@@ -1,4 +1,9 @@
 from django.db import models
+# SuperUserInformation
+# User: AbhayGundial
+# Email: gundialabhay@gmail.com
+# Password: abhay700
+
 
 # Create your models here.
 class Topic(models.Model):
